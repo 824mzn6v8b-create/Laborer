@@ -1,0 +1,6 @@
+{
+  "name": "Labor Exploitation Whistleblowing System",
+  "description": "ระบบแจ้งเบาะแสการเอาเปรียบแรงงานและการละเมิดสิทธิ์พนักงาน (Labor Exploitation Whistleblowing System) ครอบคลุมการแจ้งเรื่อง ติดตามสถานะ และระบบจัดการสำหรับแอดมิน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
